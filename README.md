@@ -53,7 +53,7 @@ See [`methodology.md`](methodology.md)
 
 ## Attack Workflow
 
-See [`attack-workflow.md`](attack-workflow.md)
+See [`adversary-simulation.md`](adversary-simulation.md)
 
 ---
 
