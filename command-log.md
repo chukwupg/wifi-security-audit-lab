@@ -45,7 +45,7 @@ sudo airmon-ng check kill
 
 **Kill conflicting processes**
 
-![Kill conflicting processes](/screenshots/task-4/kill-conflicting-processes.png)
+![Kill conflicting processes](/screenshots/kill-conflicting-processes.png)
 
 ---
 
@@ -71,7 +71,7 @@ Replace `interface` with the wireless interface identified in the previous step.
 
 **Terminal output showing the wireless interface in monitor mode**
 
-![Monitor mode](/screenshots/task-4/enable-monitor-mode.png)
+![Monitor mode](/screenshots/enable-monitor-mode.png)
 
 ---
 
